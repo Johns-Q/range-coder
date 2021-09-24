@@ -30,3 +30,15 @@
 
 # Debug files
 *.dSYM/
+
+# Temp files
+*~
+.*.swp
+# Work directories
+chaos
+.chaos
+# Generated files
+www/html
+rangecoder
+rangecoder32
+rangecoderx32
